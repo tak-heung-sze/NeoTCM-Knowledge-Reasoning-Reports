@@ -15,4 +15,4 @@ Explore the live implementation of the system described in these reports:
 **Note**: The core source code of the NeoTCM engine is proprietary and is not included in this public archive to protect intellectual property.
 
 ## 🎓 Citation (DOI)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18268611.svg)](https://doi.org/10.5281/zenodo.18268611)
