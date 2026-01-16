@@ -8,7 +8,7 @@ This repository archives the theoretical and technical foundations of the NeoTCM
 
 ## 🌐 Online Demonstration
 Explore the live implementation of the system described in these reports:
-[https://neotcm.netlify.app](https://neotcm.netlify.app)
+[[https://https://graphtcm.netlify.app](https://graphtcm.netlify.app)
 
 ## ⚖️ Intellectual Property & Copyright
 © 2026 Tak Heung Sze. All rights reserved. 
